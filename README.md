@@ -1,8 +1,5 @@
 - 👋 Wesh mek, j'suis @MeliodasMek
-- 👀 Rien m'interesse m'n fou un peu
-- 🌱 Je sais pas dev
-- 💞️ Je suis robuste
-- 📫 Challah je dev
+- 📫 Rejoins Eclipsia RôlePlay ou gun fight dans ta ville
 
 <!---
 MeliodasMek/MeliodasMek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
